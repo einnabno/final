@@ -83,6 +83,6 @@
 <a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-instagram"></a>
 <a href="#" class="fa fa-google"></a>
-			<br>Login | Disclaimer | Privacy Policy | Sitemap</div></center>
+			<br>@YanNiePizza | YNsPizza | YanniesP | Yannie's Pizza</div></center>
 	</body>
 </html>
