@@ -404,7 +404,7 @@ body{
 .bubble{
 	position: absolute;
 	margin: right;
-	right: 800px;
+	right: 655px;
 	height: 50px;
 	width: 55px;
 	border-radius: 50%;
@@ -418,7 +418,7 @@ body{
 .bubble1{
 	position: absolute;
 	margin: right;
-	right: 742px;
+	right: 595px;
 	height: 50px;
 	width: 55px;
 	border-radius: 50%;
@@ -432,7 +432,7 @@ body{
 .bubble2{
 	position: absolute;
 	margin: right;
-	right: 685px;
+	right: 535px;
 	height: 50px;
 	width: 55px;
 	border-radius: 50%;
@@ -446,7 +446,7 @@ body{
 .bubble3{
 	position: absolute;
 	margin: right;
-	right: 628px;
+	right: 475px;
 	height: 50px;
 	width: 55px;
 	border-radius: 50%;
@@ -460,7 +460,7 @@ body{
 .bubble4{
 	position: absolute;
 	margin: right;
-	right: 570px;
+	right: 415px;
 	height: 50px;
 	width: 55px;
 	border-radius: 50%;
@@ -474,7 +474,7 @@ body{
 .bubble5{
 	position: absolute;
 	margin: right;
-	right: 480px;
+	right: 320px;
 	height: 50px;
 	width: 55px;
 	border-radius: 50%;
@@ -488,7 +488,7 @@ body{
 .bubble6{
 	position: absolute;
 	margin: right;
-	right: 423px;
+	right: 260px;
 	height: 50px;
 	width: 55px;
 	border-radius: 50%;
@@ -499,6 +499,7 @@ body{
 .bubble6:hover{
 	border: 2px solid #FFF;
 }
+
 .right {
 	position: absolute;
 	background-size: cover;
