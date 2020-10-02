@@ -39,13 +39,13 @@
 			<br>
 			<br>
 			<br>
-			<div class="bubble"><br>A</div>
-			<div class="bubble1"><br>B</div>
-			<div class="bubble2"><br>O</div>
-			<div class="bubble3"><br>U</div>
-			<div class="bubble4"><br>T</div>
-			<div class="bubble5"><br>U</div>
-			<div class="bubble6"><br>S</div>
+				<div class="bubble"><br>A</div>
+								<div class="bubble1"><br>B</div>
+												<div class="bubble2"><br>O</div>
+																<div class="bubble3"><br>U</div>
+																				<div class="bubble4"><br>T</div>
+																							<div class="bubble5"><br>U</div>
+																										<div class="bubble6"><br>S</div>
 			<div class="right"><br><br><br><br>From humble beginnings as a single pizza restaurant in 1960, Yannie’s Pizza today has become the recognized world leader in pizza delivery. 
 			We have been dedicated to making and delivering great pizza with high quality ingredients from the start. In addition, 
 			we are constantly updating and improving our pizza menu to satisfy the growing needs of our customers.
