@@ -77,11 +77,13 @@ body{
   animation: mush1 3s linear 0s 3;
   animation-iteration-count: infinite;
 }
+
 .mushroom1:after, .mushroom1:before {
   content: "";
   position: absolute;
   margin: left;
 }
+
 .mushroom1:before {
   background: #c8c3b0;
   border-radius: 4vh 4vh 2vh 2vh;
