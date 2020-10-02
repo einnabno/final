@@ -3,7 +3,6 @@
 		<title></title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 		<script src="https://kit.fontawesome.com/9805e53244.js" crossorigin="anonymous"></script>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body>
 		<div class="header">
@@ -40,13 +39,13 @@
 			<br>
 			<br>
 			<br>
-				<div class="bubble"><br>A</div>
-								<div class="bubble1"><br>B</div>
-												<div class="bubble2"><br>O</div>
-																<div class="bubble3"><br>U</div>
-																				<div class="bubble4"><br>T</div>
-																							<div class="bubble5"><br>U</div>
-																										<div class="bubble6"><br>S</div>
+			<div class="bubble"><br>A</div>
+			<div class="bubble1"><br>B</div>
+			<div class="bubble2"><br>O</div>
+			<div class="bubble3"><br>U</div>
+			<div class="bubble4"><br>T</div>
+			<div class="bubble5"><br>U</div>
+			<div class="bubble6"><br>S</div>
 			<div class="right"><br><br><br><br>From humble beginnings as a single pizza restaurant in 1960, Yannie’s Pizza today has become the recognized world leader in pizza delivery. 
 			We have been dedicated to making and delivering great pizza with high quality ingredients from the start. In addition, 
 			we are constantly updating and improving our pizza menu to satisfy the growing needs of our customers.
@@ -78,11 +77,48 @@
 			<br>
 			<br>
 			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<div class="circ"><br><center>Contact Us @ 495 7786<center></div>
+			<div  class="box"><br><center>Surround YOURSELF with PIZZA, not with NEGATIVITY</div>
+			<div class="box1"><br><center>Choose your Fighter!
+			<br>Pepperoni, Hawaiian, Cheese Overload
+			<br> and Meaty Overload<center></div>
 			<div class="footer"><center>
 <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-instagram"></a>
 <a href="#" class="fa fa-google"></a>
-			<br>@YanNiePizza | @YNsPizza | @YanniesP | Yannie's Pizza</div></center>
+			<br>Login | Disclaimer | Privacy Policy | Sitemap</div></center>
 	</body>
 </html>
